@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Coders' target in the 'Coders' project
+//
+
+#ifdef __OBJC__
+  #import <Foundation/Foundation.h>
+#endif
